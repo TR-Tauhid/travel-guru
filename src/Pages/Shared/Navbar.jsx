@@ -17,6 +17,7 @@ const Navbar = () => {
 
             <div>
                 <div className="text-3xl flex py-5">
+
                     <div className="block relative md:hidden">
 
                         {
@@ -55,12 +56,12 @@ const Navbar = () => {
                         }
                     </div>
 
-                    <img className="mx-auto min-w-28 min-[930px]:mr-3" src="icons/travelGuru.svg" alt="" />
+                    <img className="mx-auto min-w-28 min-[930px]:mr-3" src="/icons/travelGuru.svg" alt="" />
 
                 </div>
             </div>
 
-            <div className="flex grow lg:max-w-[450px] ">
+            <div className="flex grow lg:max-w-[450px] lg:mx-5">
 
                 <label className="input input-ghost  bg-[#b8beed44] focus-within:bg-[#b9beed1b] focus-within:outline-white border-white border-2 flex items-center gap-2 mx-auto w-full">
 
@@ -72,7 +73,7 @@ const Navbar = () => {
                 </label>
             </div>
 
-            <div className="hidden md:flex grow py-4">
+            <div className="hidden md:flex grow py-4 md:min-w-96 lg:max-w-md ">
                 <ul className="flex justify-around grow font-montserrat-medium text-base hover:cursor-pointer">
                     <li>
                         <a>News</a>

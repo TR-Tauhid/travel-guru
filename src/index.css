@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: BasesNeue, "sans-serif";
+    src: url(/fonts/babesNue.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Avenir;
+    src: url(/fonts/avenir.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

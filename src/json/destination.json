@@ -1,0 +1,181 @@
+[
+    {
+      "id" : 1,
+      "image" : "/public/images/rectangle1.png",
+      "imageBg" : "bg-[url('/public/images/rectangle1.png')]",
+      "name": "Cox's Bazar",
+      "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+      "hotels": [
+        {
+          "name": "Sayeman Beach Resort",
+          "location": "https://goo.gl/maps/xnNV6HH8s5S2"
+        },
+        {
+          "name": "Long Beach Hotel",
+          "location": "https://goo.gl/maps/6Bx1bNkjJQF2"
+        },
+        {
+          "name": "Sea Pearl Beach Resort & Spa",
+          "location": "https://goo.gl/maps/ZJYxkR1UwPQ2"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "image" : "/public/images/sreemongol.png",
+      "imageBg" : "bg-[url('/public/images/sreemongol.png')]",
+      "name": "Sreemangal",
+      "description": "Sreemangal is a city in northeastern Bangladesh known for its tea gardens and scenic beauty. Lawachara National Park is a major attraction with its rich biodiversity. Visitors can also explore the tribal culture and visit the Baikka Beel Wetland Sanctuary.",
+      "hotels": [
+        {
+          "name": "Grand Sultan Tea Resort & Golf",
+          "location": "https://goo.gl/maps/2aZZv1DdRp52"
+        },
+        {
+          "name": "Tea Heaven Resort",
+          "location": "https://goo.gl/maps/4dGmKrXc6zD2"
+        },
+        {
+          "name": "Nishorgo Eco Resort",
+          "location": "https://goo.gl/maps/TB7bP5WVf2B2"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "image" : "/public/images/sundorbon.png",
+      "imageBg" : "bg-[url('/public/images/sundorbon.png')]",
+      "name": "Sundarbans",
+      "description": "The Sundarbans is a vast forest in the coastal region of the Bay of Bengal and considered one of the natural wonders of the world. The Sundarbans mangrove forest, one of the largest such forests in the world, lies on the delta of the Ganges, Brahmaputra, and Meghna rivers. It is famous for the Bengal tiger.",
+      "hotels": [
+        {
+          "name": "Sundarban Tiger Camp",
+          "location": "https://goo.gl/maps/MY6XX1xTFR62"
+        },
+        {
+          "name": "Royal Sundarban Wild Resort",
+          "location": "https://goo.gl/maps/8fhM6x4b2Y62"
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "image" : "/public/images/saintMartin.png",
+      "imageBg" : "bg-[url('/public/images/saintMartin.png')]",
+      "name": "Saint Martin's Island",
+      "description": "Saint Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula. It is the only coral island in Bangladesh and known for its crystal clear blue water and coral reefs.",
+      "hotels": [
+        {
+          "name": "Blue Marine Resort",
+          "location": "https://goo.gl/maps/xF7kY9rh7x92"
+        },
+        {
+          "name": "Nil Diganta Resort",
+          "location": "https://goo.gl/maps/zNxwHgM5FfD2"
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "image" : "/public/images/rangamati.jpg",
+      "imageBg" : "bg-[url('/public/images/rangamati.jpg')]",
+      "name": "Rangamati",
+      "description": "Rangamati is a district in southeastern Bangladesh. It's known for its hilly landscape, tribal culture, and beautiful Kaptai Lake. Rangamati is a popular destination for its picturesque views, boating, and the Chakma tribal community.",
+      "hotels": [
+        {
+          "name": "Aronnak Holiday Resort",
+          "location": "https://goo.gl/maps/F8JZb1FkqZs2"
+        },
+        {
+          "name": "Hotel Sufia International",
+          "location": "https://goo.gl/maps/GkJHB4jZUVJ2"
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "image" : "/public/images/bandorban.jpg",
+      "imageBg" : "bg-[url('/public/images/bandorban.jpg')]",
+      "name": "Bandarban",
+      "description": "Bandarban is a district in southeastern Bangladesh known for its beautiful hills, forests, and waterfalls. Key attractions include Nilgiri, Nafakhum, and Boga Lake. Bandarban is also home to the diverse Marma, Chakma, and Tripura tribal communities.",
+      "hotels": [
+        {
+          "name": "Nilgiri Resort",
+          "location": "https://goo.gl/maps/7XbbKZJkYcQ2"
+        },
+        {
+          "name": "Hill View Hotel",
+          "location": "https://goo.gl/maps/2dR9JtK5GjK2"
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "image" : "/public/images/sylhet.jpg",
+      "imageBg" : "bg-[url('/public/images/sylhet.jpg')]",
+      "name": "Sylhet",
+      "description": "Sylhet is a city in northeastern Bangladesh known for its tea gardens, lush greenery, and the Surma River. The Ratargul Swamp Forest, Jaflong, and Lalakhal are major attractions. Sylhet is also a spiritual destination, home to the shrine of Hazrat Shah Jalal.",
+      "hotels": [
+        {
+          "name": "Hotel Star Pacific",
+          "location": "https://goo.gl/maps/JXW6g4kP7bP2"
+        },
+        {
+          "name": "Rose View Hotel",
+          "location": "https://goo.gl/maps/YHc5q3wVrPR2"
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "image" : "/public/images/kuakata.jpg",
+      "imageBg" : "bg-[url('/public/images/kuakata.jpg')]",
+      "name": "Kuakata",
+      "description": "Kuakata is a beach town in southwestern Bangladesh known for its panoramic sea beach from where both sunrise and sunset can be viewed. It's also famous for the traditional culture of the Rakhine people and the nearby Sundarbans forest.",
+      "hotels": [
+        {
+          "name": "Kuakata Grand Hotel & Resort",
+          "location": "https://goo.gl/maps/4yY6RxzZsLP2"
+        },
+        {
+          "name": "Hotel Graver Inn International",
+          "location": "https://goo.gl/maps/XbJcXsx7tU52"
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "image" : "/public/images/paharpur.jpg",
+      "imageBg" : "bg-[url('/public/images/paharpur.jpg')]",
+      "name": "Paharpur",
+      "description": "Paharpur is a small village in the Naogaon district of Bangladesh. It is famous for the Somapura Mahavihara, a UNESCO World Heritage Site, which is among the best-known Buddhist viharas in the Indian Subcontinent and one of the most important archaeological sites in the country.",
+      "hotels": [
+        {
+          "name": "Hotel Naz Garden",
+          "location": "https://goo.gl/maps/d1vP2jKzN6y"
+        },
+        {
+          "name": "Annex Suites",
+          "location": "https://goo.gl/maps/d1vP2jKzN6y"
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "image" : "/public/images/bagerhat.jpg",
+      "imageBg" : "bg-[url('/public/images/bagerhat.jpg')]",
+      "name": "Bagerhat",
+      "description": "Bagerhat is a city in southwestern Bangladesh known for its historical mosques and the Sixty Dome Mosque, a UNESCO World Heritage Site. The city was founded in the 15th century by Turkish general Ulugh Khan Jahan and has many ancient Islamic structures.",
+      "hotels": [
+        {
+          "name": "Momo Inn",
+          "location": "https://goo.gl/maps/xF7kY9rh7x92"
+        },
+        {
+          "name": "Hotel Western",
+          "location": "https://goo.gl/maps/xF7kY9rh7x92"
+        }
+      ]
+    }
+  ]
+  

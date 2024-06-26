@@ -6,6 +6,7 @@ import Root from "../layouts/Root";
 import Login from "../Pages/Login/Login";
 import Search from "../Pages/Search/Search";
 import CreateAccount from "../Pages/CreateAccount/CreateAccount";
+import PrivateRoute from "../PrivateRoute/PrivateRoute";
 
 
 const router = createBrowserRouter([
@@ -15,11 +16,13 @@ const router = createBrowserRouter([
         children: [
             {
                 path: '/',
-                element: <Home></Home>
+                element: <Home></Home>,
+                loader: () => fetch('/src/json/destination.json')
             },
             {
-                path: '/booking',
-                element: <Booking></Booking>
+                path: '/booking/:id',
+                element: <PrivateRoute><Booking></Booking></PrivateRoute>,
+                loader: () => fetch('/src/json/destination.json')
             },
             {
                 path: '/login',
